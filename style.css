@@ -2,18 +2,30 @@ body{
     font-family: Arial, sans-serif;
     background:#f4f4f4;
     text-align:center;
-    margin-top:100px;
+    margin:0;
 }
 
-h1{
-    color:#0066cc;
+header{
+    background:#0066cc;
+    color:white;
+    padding:30px;
+}
+
+section{
+    padding:40px;
 }
 
 button{
-    padding:12px 20px;
+    padding:12px 24px;
     background:#0066cc;
     color:white;
     border:none;
     border-radius:8px;
     cursor:pointer;
+}
+
+footer{
+    background:#222;
+    color:white;
+    padding:20px;
 }
