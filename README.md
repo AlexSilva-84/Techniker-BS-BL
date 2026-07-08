@@ -1,2 +1,2 @@
 # Techniker-BS-BL
-Digitale Tv/Natel/Router/Wi-Fi
+Digitale TV-Gerät/Handys/Router/Wi-Fi
